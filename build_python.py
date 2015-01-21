@@ -27,7 +27,7 @@ def go():
 
     # Setup pyinstaller to Compile.
     head_projpath, tail = os.path.split(script_path)
-    specf = 'kill_proc.spec'
+    specf = 'vc2008cleaner.spec'
     # try and find pyinstaller location
     if sys.platform.startswith('win'):
         # C:\
