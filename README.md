@@ -1,4 +1,4 @@
-vc2008cleaner (Windows only)
+vc2008cleaner
 ================
 
 This project is a tool to clean up after vc2008 redist.
